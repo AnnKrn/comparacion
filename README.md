@@ -11,3 +11,5 @@ Escribe una función llamada areArraysSame que tome dos arrays como argumentos. 
 	3.2 si son iguales continuamos comparanfo uno a uno
 4. Regresamos true
 5. Fin
+
+![Esta es la imagen del diagrama]()
